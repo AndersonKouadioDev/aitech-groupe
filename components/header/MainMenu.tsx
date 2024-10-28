@@ -5,7 +5,7 @@ const MainMenu = ({
   toggleSubMenu,
   navbarPlacement,
 }: {
-  toggleSubMenu: () => void;
+  toggleSubMenu?: () => void;
   navbarPlacement: string;
 }) => {
   return (
