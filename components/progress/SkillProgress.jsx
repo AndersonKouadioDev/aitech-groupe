@@ -1,4 +1,5 @@
 "use client";
+
 import React, { useState, useEffect, useRef } from 'react';
 
 const SkillProgress = ({ skill }) => {
@@ -7,21 +8,23 @@ const SkillProgress = ({ skill }) => {
   const progressBarRef = useRef(null);
 
   useEffect(() => {
-    const observer = new IntersectionObserver((entries) => {
-      if (entries[0].isIntersecting) {
-        setProgressWidth(end);
-      }
-    }, { threshold: 1.0 });
+    if (typeof document !== 'undefined') {
+      const observer = new IntersectionObserver((entries) => {
+        if (entries[0].isIntersecting) {
+          setProgressWidth(end);
+        }
+      }, { threshold: 1.0 });
 
-    if (progressBarRef.current) {
-      observer.observe(progressBarRef.current);
-    }
-
-    return () => {
       if (progressBarRef.current) {
-        observer.unobserve(progressBarRef.current);
+        observer.observe(progressBarRef.current);
       }
-    };
+
+      return () => {
+        if (progressBarRef.current) {
+          observer.unobserve(progressBarRef.current);
+        }
+      };
+    }
   }, [end]);
 
   return (

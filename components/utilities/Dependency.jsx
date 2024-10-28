@@ -1,20 +1,24 @@
-"use client"
-import React, { useEffect } from 'react';
-import { ScrollToTop } from 'react-simple-scroll-up';
-// Ajout des importations ES6
-import 'bootstrap/dist/js/bootstrap.bundle.js';
-import WOW from 'wowjs/dist/wow.js';
+"use client";
 
+import React, { useEffect } from "react";
+import { ScrollToTop } from "react-simple-scroll-up";
+
+// Importations dynamiques pour éviter les erreurs de SSR
 const Dependency = () => {
-
   useEffect(() => {
-    // Initialisation de WowJs
-    window.wow = new WOW({
-      live: false
-    });
+    if (typeof document !== 'undefined' && typeof window !== "undefined") {
+      // Bootstrap Js 
+      import('bootstrap/dist/js/bootstrap.bundle.js');
 
-    window.wow.init();
+      // WowJs 
+      import('wowjs/dist/wow.js').then((WOW) => {
+        window.wow = new WOW.WOW({
+          live: false,
+        });
 
+        window.wow.init();
+      });
+    }
   }, []);
 
   return (
