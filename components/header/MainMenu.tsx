@@ -2,7 +2,7 @@ import React from "react";
 import Link from "next/link";
 
 const MainMenu = ({
-  toggleSubMenu,
+  // toggleSubMenu,
   navbarPlacement,
 }: {
   toggleSubMenu?: () => void;
