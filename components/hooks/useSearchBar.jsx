@@ -4,7 +4,7 @@ import { useState } from 'react';
 const useSearchBar = () => {
     const [openSearch, setOpenSearch] = useState(false);
 
-    const searchOpen = (event) => {
+    const searchOpen = () => {
         setOpenSearch(true)
         document.querySelector('.top-search').classList.add('smooth-search');
     }

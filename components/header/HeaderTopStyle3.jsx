@@ -12,7 +12,7 @@ const HeaderTopStyle3 = () => {
                                 <li>
                                     <small>
                     <i className="fas fa-map-marker-alt"></i> Abidjan - Cocody
-                    Mermoz en Face de FIN'L{" "}
+                    Mermoz en Face de FIN&apos;L{" "}
                   </small>
                                 </li>
                                 <li>

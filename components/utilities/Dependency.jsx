@@ -1,24 +1,20 @@
 "use client"
 import React, { useEffect } from 'react';
 import { ScrollToTop } from 'react-simple-scroll-up';
+// Ajout des importations ES6
+import 'bootstrap/dist/js/bootstrap.bundle.js';
+import WOW from 'wowjs/dist/wow.js';
 
 const Dependency = () => {
 
   useEffect(() => {
-    {
+    // Initialisation de WowJs
+    window.wow = new WOW({
+      live: false
+    });
 
-      // Bootstrap Js 
-      require('bootstrap/dist/js/bootstrap.bundle.js')
+    window.wow.init();
 
-      // WowJs 
-      const WOW = require('wowjs/dist/wow.js');
-      window.wow = new WOW.WOW({
-        live: false
-      })
-
-      window.wow.init();
-
-    }
   }, []);
 
   return (

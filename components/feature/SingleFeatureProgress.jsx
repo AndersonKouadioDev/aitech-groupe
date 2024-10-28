@@ -18,8 +18,6 @@ const SingleFeatureProgress = ({ progress }) => {
 
     const { maxValue, title } = progress;
     const [progressValue, setProgressValue] = useState(0);
-    // eslint-disable-next-line no-unused-vars
-    const [progressText, setProgressText] = useState(0);
     const [isVisible, setIsVisible] = useState(false);
 
     const intersectionRef = useRef(null);
