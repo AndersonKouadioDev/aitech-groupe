@@ -6,7 +6,7 @@ Description:
 Version: 1.0
 
 Main Font    : Outfit
-Main Color   : #DF0A0A
+Main Color   : #478EEF
 
 -------------------------------------
 
@@ -81,7 +81,6 @@ Sidebar heading:  20px 'Outfit', sans-serif
     22. Others
 
 */
-
 /* Variables */
 :root {
 	--font-default: 'Outfit', sans-serif;
@@ -90,23 +89,23 @@ Sidebar heading:  20px 'Outfit', sans-serif
 	--fontawesome: "Font Awesome 5 Pro";
 	--black: #000000;
 	--dark: #1D2027;
-	--dark-secondary: #022b6d;
-	--dark-optional: #3e00a7;
+	--dark-secondary: #0b57e3;
+	--dark-optional: #ffc107;
 	--white: #ffffff;
-	--color-primary: #DF0A0A;
+	--color-primary: #478eef;
 	--color-secondary: #0b57e3;
-	--color-optional: #57B33E;
+	--color-optional: #ffc107;
 	--color-heading: #0e0e0e;
 	--color-paragraph: #666666;
 	--box-shadow-primary: -1px 3px 10px 0 rgba(0, 0, 0, 0.6);
-	--box-shadow-secondary: 0 10px 30px 0 rgba(44, 130, 237, 0.4);
+	--box-shadow-secondary: 0 10px 30px 0 rgba(71, 142, 239,0.4);
 	--box-shadow-regular: 0px 2px 12px 0px #e7e7e7;
-	--bg-gray: #F7F7F7;
+	--bg-gray: #f3f3f3;
 	--bg-gradient: linear-gradient(90deg, var(--color-secondary) 0%, var(--color-primary) 100%);
 	--bg-gradient-secondary: linear-gradient(90deg, var(--color-secondary) 40%, var(--dark-secondary) 100%);
 	--bg-gradient-reverse: linear-gradient(90deg, var(--color-primary) 0%, var(--color-secondary) 100%);
-	--gradient-bg: linear-gradient(90deg, #DF0A0A 0%, #930707 100%);
-	--bg-gradient-optional: linear-gradient(90deg, #57B33E 50%, #b59f11 100%);
+	--gradient-bg: linear-gradient(90deg, #478EEF 0%, #ffc107 100%);
+	--bg-gradient-optional: linear-gradient(90deg, #e6391f 50%, #b59f11 100%);
 }
 
 /* ============================================================== 
@@ -955,7 +954,7 @@ p {
 }
 
 .bg-dark .sub-heading {
-	background: linear-gradient(90deg, #df0a0a 0%, #7c00ff 100%);
+	background: linear-gradient(90deg, #478EEF 0%, #7c00ff 100%);
 	-webkit-background-clip: text;
 	background-clip: text;
 	-webkit-text-fill-color: transparent;
@@ -2620,7 +2619,7 @@ p {
 .nice-select.right {
 	float: right;
 }
-
+navbar-menu
 .nice-select.right .list {
 	left: auto;
 	right: 0;
