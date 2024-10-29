@@ -3,7 +3,7 @@ import FaqStyle2 from '@/components/faq/FaqStyle2';
 import React from 'react';
 
 export const metadata = {
-    title: "Consua - Consulting Business - Faq"
+    title: "Aitech-Groupe - IT Company - Faq"
 }
 
 const FaqPage = () => {

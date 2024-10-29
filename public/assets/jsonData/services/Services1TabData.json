@@ -1,110 +1,110 @@
 [
-    {
+  {
+    "id": 1,
+    "tabClass": "show active",
+    "tabId": "tab1",
+    "ariaLabelled": "nav-id-1",
+    "tabData": [
+      {
         "id": 1,
-        "tabClass": "show active",
-        "tabId": "tab1",
-        "ariaLabelled": "nav-id-1",
-        "tabData": [
-            {
-                "id": 1,
-                "animationDelay": 0,
-                "icon": "flaticon-personal",
-                "title": "Investment Planning",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
-            },
-            {
-                "id": 2,
-                "animationDelay": "",
-                "icon": "flaticon-career",
-                "title": "Markets Research",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
-            },
-            {
-                "id": 3,
-                "animationDelay": "",
-                "icon": "flaticon-group",
-                "title": "Consultancy & Advice",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
-            },
-            {
-                "id": 4,
-                "animationDelay": "",
-                "icon": "flaticon-solution-5",
-                "title": "Business Planning",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
-            }
-        ]
-    },
-    {
+        "animationDelay": 0,
+        "icon": "fas fa-network-wired",
+        "title": "Réseau Informatique",
+        "text": "Conception, déploiement et maintenance de l'infrastructure réseau qui forme le socle technologique de toute entreprise"
+      },
+      {
         "id": 2,
-        "tabClass": "",
-        "tabId": "tab2",
-        "ariaLabelled": "nav-id-2",
-        "tabData": [
-            {
-                "id": 1,
-                "animationDelay": 0,
-                "icon": "flaticon-business-trip",
-                "title": "Strategy & Planning",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
-            },
-            {
-                "id": 2,
-                "animationDelay": "",
-                "icon": "flaticon-online-store",
-                "title": "Online Business",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
-            },
-            {
-                "id": 3,
-                "animationDelay": "",
-                "icon": "flaticon-funds",
-                "title": "Saving & Investments",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
-            },
-            {
-                "id": 4,
-                "animationDelay": "",
-                "icon": "flaticon-career",
-                "title": "Markets Research",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
-            }
-        ]
-    },
-    {
+        "animationDelay": "",
+        "icon": "fas fa-cloud",
+        "title": "Sauvegarde",
+        "text": "Solutions de sauvegarde (backup) via services cloud ou serveurs physiques, incluant My Cloud Home et Synology NAS"
+      },
+      {
         "id": 3,
-        "tabClass": "",
-        "tabId": "tab3",
-        "ariaLabelled": "nav-id-3",
-        "tabData": [
-            {
-                "id": 1,
-                "animationDelay": 0,
-                "icon": "flaticon-budget",
-                "title": "Investment Planning",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
-            },
-            {
-                "id": 2,
-                "animationDelay": "",
-                "icon": "flaticon-money-1",
-                "title": "Mutual Funds",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
-            },
-            {
-                "id": 3,
-                "animationDelay": "",
-                "icon": "flaticon-funds",
-                "title": "Saving & Investments",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
-            },
-            {
-                "id": 4,
-                "animationDelay": "",
-                "icon": "flaticon-world-globe",
-                "title": "Global Business",
-                "text": "Prevailed always tolerably discourse and loser assurance creatively coin applauded more uncommonly. Him everything trouble"
-            }
-        ]
-    }
+        "animationDelay": "",
+        "icon": "fas fa-shield",
+        "title": "Cybersécurité",
+        "text": "Protection des données et des systèmes contre les menaces informatiques avec des solutions avancées"
+      },
+      {
+        "id": 4,
+        "animationDelay": "",
+        "icon": "flaticon-data",
+        "title": "Gestion des Données",
+        "text": "Solutions complètes de stockage et de gestion des données d'entreprise"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "tabClass": "",
+    "tabId": "tab2",
+    "ariaLabelled": "nav-id-2",
+    "tabData": [
+      {
+        "id": 1,
+        "animationDelay": 0,
+        "icon": "fas fa-phone",
+        "title": "Réseaux Télécom",
+        "text": "Solutions de télécommunication innovantes et infrastructures de communication fiables"
+      },
+      {
+        "id": 2,
+        "animationDelay": "",
+        "icon": "fas fa-video",
+        "title": "Smart Life",
+        "text": "Solutions domotiques avancées pour le contrôle et la sécurité de la maison intelligente"
+      },
+      {
+        "id": 3,
+        "animationDelay": "",
+        "icon": "fas fa-microchip",
+        "title": "Automatisation",
+        "text": "Systèmes d'automatisation intelligents pour l'éclairage, la sécurité et le chauffage"
+      },
+      {
+        "id": 4,
+        "animationDelay": "",
+        "icon": "fas fa-wifi",
+        "title": "IoT Solutions",
+        "text": "Integration d'appareils connectés et de solutions IoT pour maisons et entreprises"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "tabClass": "",
+    "tabId": "tab3",
+    "ariaLabelled": "nav-id-3",
+    "tabData": [
+      {
+        "id": 1,
+        "animationDelay": 0,
+        "icon": "fas fa-bolt",
+        "title": "Électricité",
+        "text": "Infrastructure électrique fiable et solutions énergétiques innovantes sur mesure"
+      },
+      {
+        "id": 2,
+        "animationDelay": "",
+        "icon": "flaticon-consulting",
+        "title": "Consulting",
+        "text": "Solutions de consulting pour optimiser et sécuriser les opérations de votre entreprise"
+      },
+      {
+        "id": 3,
+        "animationDelay": "",
+        "icon": "fas fa-solar-panel",
+        "title": "Énergies Renouvelables",
+        "text": "Solutions d'énergie solaire et éolienne pour une entreprise plus durable"
+      },
+      {
+        "id": 4,
+        "animationDelay": "",
+        "icon": "fas fa-chart-line",
+        "title": "Analyse & Optimisation",
+        "text": "Gestion des processus et analyse des données pour améliorer l'efficacité"
+      }
+    ]
+  }
 ]

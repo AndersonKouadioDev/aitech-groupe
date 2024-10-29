@@ -1,26 +1,26 @@
 [
     {
         "id": "1",
-        "thumb": "3.jpg",
+        "thumb": "about_2.png",
         "activeClass": "active",
         "steps": "01",
-        "title": "Differentiate from the competition",
-        "text": "Capitalize on low hanging fruit to identify a ballpark value added."
+        "title": "Analyse & Conception",
+        "text": "Audit complet de votre infrastructure, identification des besoins et élaboration d'un plan d'action personnalisé avec budget et planning détaillé."
     },
     {
         "id": "2",
-        "thumb": "6.jpg",
+        "thumb": "about_3.png",
         "activeClass": "",
         "steps": "02",
-        "title": "Target the right people effectively",
-        "text": "Capitalize on low hanging fruit to identify a ballpark value added."
+        "title": "Déploiement & Installation",
+        "text": "Mise en place des solutions techniques, configuration des systèmes, tests de performance et formation des utilisateurs aux nouveaux outils."
     },
     {
         "id": "3",
-        "thumb": "5.jpg",
+        "thumb": "about_1.png",
         "activeClass": "",
         "steps": "03",
-        "title": "Communicate your story consistently",
-        "text": "Capitalize on low hanging fruit to identify a ballpark value added."
+        "title": "Support & Evolution",
+        "text": "Maintenance proactive, surveillance continue des systèmes, support technique et mise à jour régulière pour garantir une performance optimale."
     }
 ]

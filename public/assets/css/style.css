@@ -1,6 +1,6 @@
 /* ----------------------------------
 
-Template Name: Consua - Consulting Business React - NextJS Template
+Template Name: Aitech-Groupe - IT Company React - NextJS Template
 Author: validTheme
 Description:
 Version: 1.0
@@ -4955,7 +4955,7 @@ navbar-menu
 	position: absolute;
 	background: var(--color-primary);
 	z-index: -1;
-	clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+	clip-path: circle(100% at 80% 100%); /* Forme de vague */
 	transition: all 0.35s ease-in-out;
 	opacity: 0;
 }
@@ -4967,9 +4967,9 @@ navbar-menu
 	height: 0;
 	width: 40px;
 	position: absolute;
-	background: #a63131;
+	background: var(--color-optional);
 	z-index: -1;
-	clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+	clip-path: circle(100% at 20% 100%);
 	transition: all 0.35s ease-in-out;
 	opacity: 0;
 }

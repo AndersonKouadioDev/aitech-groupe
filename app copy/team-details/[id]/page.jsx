@@ -4,7 +4,7 @@ import TeamData from '@/public/assets/jsonData/team/TeamData.json';
 import LayoutStyle7 from '@/components/Layouts/LayoutStyle7';
 
 export const metadata = {
-    title: "Consua - Consulting Business - Team Details"
+    title: "Aitech-Groupe - IT Company - Team Details"
 }
 
 const TeamDetails = ({ params }) => {

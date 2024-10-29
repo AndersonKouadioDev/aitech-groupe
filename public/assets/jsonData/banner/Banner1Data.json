@@ -1,22 +1,63 @@
 [
-    {
-        "id": 1,
-        "bgThumb": "1.jpg",
-        "title": "Meet Consulting",
-        "title1": "Financial Analysis",
-        "title2": "Developing Meeting.",
-        "btnText": "Our Services",
-        "shapeThumb": "4.png",
-        "videoId": "owhuBrGIOsEdsk"
-    },
-    {
-        "id": 2,
-        "bgThumb": "6.jpg",
-        "title": "Coaching & Consulting",
-        "title1": "Strategies for",
-        "title2": "Enduring Success",
-        "btnText": "Our Services",
-        "shapeThumb": "4.png",
-        "videoId": "owhuBrGIOsEdsk"
-    }
+  {
+    "id": 1,
+    "bgThumb": "banner_3.png",
+    "title": "Consulting",
+    "title1": "Stratégies avancées",
+    "title2": "Optimisation entreprise",
+    "btnText": "Nos Services",
+   "shapeThumb": "40.png",
+    "videoId": "owhuBrGIOsEdsk"
+  },
+  {
+    "id": 2,
+    "bgThumb": "banner_5.png",
+    "title": "Réseau Informatique",
+    "title1": "Infrastructure réseau",
+    "title2": "Socle technologique",
+    "btnText": "Nos Services",
+    "shapeThumb": "40.png",
+    "videoId": "owhuBrGIOsEdsk"
+  },
+  {
+    "id": 3,
+    "bgThumb": "banner_7.png",
+    "title": "Reseaux Telecom",
+    "title1": "Solutions de",
+    "title2": "Télécommunication",
+    "btnText": "Nos Services",
+    "shapeThumb": "40.png",
+    "videoId": "owhuBrGIOsEdsk"
+  },
+  {
+    "id": 4,
+    "bgThumb": "banner_10.png",
+    "title": "Électricité",
+    "title1": "Solutions énergétiques",
+    "title2": "Infrastructures fiables",
+    "btnText": "Nos Services",
+   "shapeThumb": "40.png",
+    "videoId": "owhuBrGIOsEdsk"
+  },
+  {
+    "id": 5,
+    "bgThumb": "banner_4.png",
+    "title": "Sauvegarde",
+    "title1": "Solutions Cloud",
+    "title2": "Sécurité des données",
+    "btnText": "Nos Services",
+   "shapeThumb": "40.png",
+    "videoId": "owhuBrGIOsEdsk"
+  },
+  {
+    "id": 6,
+    "bgThumb": "banner_9.png",
+    "title": "Smart Life",
+    "title1": "Domotique avancée",
+    "title2": "Maison connectée",
+    "btnText": "Nos Services",
+   "shapeThumb": "40.png",
+    "videoId": "owhuBrGIOsEdsk"
+  }
+ 
 ]

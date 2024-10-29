@@ -1,7 +1,7 @@
 import Link from 'next/link';
 import React from 'react';
 
-const SingleServices1 = ({ data }) => {
+const SingleServices1 = ({ data }: { data: { id: number; icon: string; title: string; text: string } }) => {
     const { id, icon, title, text } = data
 
     return (
