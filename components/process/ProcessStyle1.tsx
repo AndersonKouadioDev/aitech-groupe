@@ -1,5 +1,5 @@
 import React from "react";
-import shape11 from "@/public/assets/img/shape/11.png";
+import shape40 from "@/public/assets/img/shape/40.png";
 import Image from "next/image";
 import Process1Data from "@/public/assets/jsonData/process/Process1Data.json";
 import SingleProcess1 from "./SingleProcess1";
@@ -13,7 +13,7 @@ const ProcessStyle1 = ({ sectionClass }: { sectionClass?: string }) => {
         }`}
       >
         <div className="large-shape">
-          <Image src={shape11} alt="Shape" />
+          <Image src={shape40} alt="Shape" />
         </div>
         <div className="container">
           <div className="row">

@@ -46,21 +46,21 @@ const FooterStyle1 = ({
                     )}
                   </Link>
                   <p>
-                    Excellence decisively nay man twins impression maximum
-                    contrasted remarkably is perfect.
+                    Votre partenaire de confiance pour tous vos besoins en
+                    infrastructure IT, télécom et solutions énergétiques.
                   </p>
                   <div className="opening-hours">
-                    <h5>Opening Hours</h5>
+                    <h5>Heures d&apos;Assistance</h5>
                     <ul>
                       <li>
-                        <div className="working-day">Monday – Sunday:</div>
+                        <div className="working-day">Lundi – Samedi:</div>
                         <div className="marker"></div>
-                        <div className="working-hour">2pm – 2pm</div>
+                        <div className="working-hour">8h – 18h</div>
                       </li>
                       <li>
-                        <div className="working-day">Sunday:</div>
+                        <div className="working-day">Support 24/7:</div>
                         <div className="marker"></div>
-                        <div className="working-hour">Off Day</div>
+                        <div className="working-hour">Clients Premium</div>
                       </li>
                     </ul>
                   </div>
@@ -68,19 +68,19 @@ const FooterStyle1 = ({
               </div>
               <div className="col-lg-2 col-md-6 footer-item">
                 <div className="f-item link">
-                  <h4 className="widget-title">Our Company</h4>
+                  <h4 className="widget-title">Notre Entreprise</h4>
                   <ul>
                     <li>
-                      <Link href="/about-us">Compnay Profile</Link>
+                      <Link href="/about-us">À Propos</Link>
                     </li>
                     <li>
-                      <Link href="/contact-us">Help Center</Link>
+                      <Link href="/contact-us">Support Technique</Link>
                     </li>
                     <li>
-                      <Link href="/about-us">Career</Link>
+                      <Link href="/about-us">Carrières</Link>
                     </li>
                     <li>
-                      <Link href="/pricing">Plans & Pricing</Link>
+                      <Link href="/about-us">Tarifs & Forfaits</Link>
                     </li>
                     <li>
                       <Link href="/contact-us">Contact</Link>
@@ -90,22 +90,26 @@ const FooterStyle1 = ({
               </div>
               <div className="col-lg-2 col-md-6 footer-item">
                 <div className="f-item link">
-                  <h4 className="widget-title">Our Services</h4>
+                  <h4 className="widget-title">Nos Services</h4>
                   <ul>
                     <li>
-                      <Link href="/services-details/1">Manage investment</Link>
+                      <Link href="/services">
+                        Réseau Informatique
+                      </Link>
                     </li>
                     <li>
-                      <Link href="/services-details/1">Business planning</Link>
+                      <Link href="/services">Solutions Télécom</Link>
                     </li>
                     <li>
-                      <Link href="/services-details/1">Financial advices</Link>
+                      <Link href="/services">
+                        Services Électriques
+                      </Link>
                     </li>
                     <li>
-                      <Link href="/services-details/1">Tax strategy</Link>
+                      <Link href="/services">Smart Life</Link>
                     </li>
                     <li>
-                      <Link href="/services-details/1">Insurance strategy</Link>
+                      <Link href="/services">Solutions Cloud</Link>
                     </li>
                   </ul>
                 </div>
@@ -113,8 +117,8 @@ const FooterStyle1 = ({
               <div className="col-lg-4 col-md-6 footer-item">
                 <h4 className="widget-title">Newsletter</h4>
                 <p>
-                  Join our subscribers list to get the latest <br /> news and
-                  special offers.
+                  Abonnez-vous à notre newsletter pour recevoir <br /> nos
+                  actualités et offres spéciales.
                 </p>
                 <div className={`f-item newsletter ${formStyle}`}>
                   <FooterNewsLetter />
@@ -131,23 +135,14 @@ const FooterStyle1 = ({
             <div className="row">
               <div className="col-lg-6">
                 <p>
-                  &copy; Copyright {new Date().getFullYear()}. All Rights
-                  Reserved by{" "}
-                  <a
-                    href="https://themeforest.net/user/validthemes/portfolio"
-                    target="_blank"
-                  >
-                    validthemes
-                  </a>
+                  &copy; Copyright {new Date().getFullYear()}. Tous droits
+                  réservés
                 </p>
               </div>
               <div className="col-lg-6 text-end">
                 <ul>
                   <li>
-                    <Link href="/faq">Terms</Link>
-                  </li>
-                  <li>
-                    <Link href="/about-us">Privacy</Link>
+                    <Link href="/about-us">Confidentialité</Link>
                   </li>
                   <li>
                     <Link href="/contact-us">Support</Link>

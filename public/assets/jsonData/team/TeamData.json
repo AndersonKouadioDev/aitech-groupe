@@ -2,10 +2,10 @@
     {
         "id": 1,
         "activeClass": "active",
-        "memberThumb": "1.jpg",
+        "memberThumb": "1.jpeg",
         "designation": "CEO & Founder",
-        "name": "Md Sohag",
-        "email": "sohag@digital.com",
+        "name": "Pétronil DAGA",
+        "email": "",
         "skillProgress": [
             {
                 "id": 1,
@@ -65,10 +65,10 @@
     {
         "id": 2,
         "activeClass": "",
-        "memberThumb": "2.jpg",
-        "designation": "Product Manager",
-        "name": "Kevin Martin",
-        "email": "kevin@digital.com",
+        "memberThumb": "2.jpeg",
+        "designation": "Administrative and Financial Director",
+        "name": "Estelle BINI",
+        "email": "",
         "skillProgress": [
             {
                 "id": 1,
@@ -128,10 +128,10 @@
     {
         "id": 3,
         "activeClass": "",
-        "memberThumb": "8.jpg",
-        "designation": "Financial Consultant",
-        "name": "Sarah Albert",
-        "email": "sarah@digital.com",
+        "memberThumb": "3.jpg",
+        "designation": "Technician",
+        "name": "Alexis KONAN",
+        "email": "",
         "skillProgress": [
             {
                 "id": 1,

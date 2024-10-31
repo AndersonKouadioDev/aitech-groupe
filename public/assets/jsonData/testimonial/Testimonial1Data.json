@@ -1,34 +1,34 @@
 [
-    {
-        "id": 1,
-        "ratings": 5,
-        "title": "The best service ever",
-        "text": "Targetingconsultation discover apartments. ndulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now always remembering to the point.",
-        "name": "Matthew J. Wyman",
-        "designation": "Senior Consultant"
-    },
-    {
-        "id": 2,
-        "ratings": 5,
-        "title": "Awesome Business opportunities",
-        "text": "Consultation discover apartments. ndulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now always remembering to the point another pointing go here.",
-        "name": "Istiak Ahmed",
-        "designation": "Senior Consultant"
-    },
-    {
-        "id": 3,
-        "ratings": 5,
-        "title": "The best service ever",
-        "text": "Targetingconsultation discover apartments. ndulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now always remembering to the point.",
-        "name": "Matthew J. Wyman",
-        "designation": "Senior Consultant"
-    },
-    {
-        "id": 4,
-        "ratings": 5,
-        "title": "Awesome Business opportunities",
-        "text": "Consultation discover apartments. ndulgence off under folly death wrote cause her way spite. Plan upon yet way get cold spot its week. Almost do am or limits hearts. Resolve parties but why she shewing. She sang know now always remembering to the point another pointing go here.",
-        "name": "Istiak Ahmed",
-        "designation": "Senior Consultant"
-    }
+  {
+    "id": 1,
+    "ratings": 5,
+    "title": "Infrastructure réseau performante",
+    "text": "L'équipe a réalisé un excellent travail dans la mise en place de notre infrastructure réseau. La transition s'est faite sans interruption de service et la performance est au rendez-vous. Le support technique est réactif et professionnel.",
+    "name": "Thomas Martin",
+    "designation": "Directeur IT"
+  },
+  {
+    "id": 2,
+    "ratings": 5,
+    "title": "Solution de sauvegarde fiable",
+    "text": "La mise en place de la solution de sauvegarde cloud a transformé notre gestion des données. Le système est simple à utiliser et nous avons une tranquillité d'esprit totale concernant la sécurité de nos informations.",
+    "name": "Sophie Dubois",
+    "designation": "Responsable Système"
+  },
+  {
+    "id": 3,
+    "ratings": 5,
+    "title": "Excellente solution domotique",
+    "text": "L'installation du système domotique dans nos locaux a considérablement amélioré notre efficacité énergétique. La configuration est intuitive et le suivi de la consommation nous permet d'optimiser nos ressources.",
+    "name": "Marc Lambert",
+    "designation": "Directeur Technique"
+  },
+  {
+    "id": 4,
+    "ratings": 5,
+    "title": "Support technique exceptionnel",
+    "text": "Le niveau de support fourni est remarquable. L'équipe est toujours disponible et résout rapidement nos problèmes. Leur expertise technique et leur professionnalisme font la différence.",
+    "name": "Claire Bernard",
+    "designation": "Chef de Projet IT"
+  }
 ]

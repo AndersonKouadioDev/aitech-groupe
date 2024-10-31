@@ -1,18 +1,26 @@
 [
-    {
-        "id": 1,
-        "thumb": "1.jpg",
-        "tag": "Strategy",
-        "title": "Digital business planning",
-        "text": "Excellence projecting is devonshire dispatched remarkably on estimating. Side in so life past. Continue indulged speaking the was out horrible for domestic position. Seeing rather her you not esteem men settle genius excuse. Deal say over you age from. Comparison new ham melancholy son.",
-        "btnText": "View Project"
-    },
-    {
-        "id": 2,
-        "thumb": "2.jpg",
-        "tag": "Partnership",
-        "title": "Business program management",
-        "text": "Excellence projecting is devonshire dispatched remarkably on estimating. Side in so life past. Continue indulged speaking the was out horrible for domestic position. Seeing rather her you not esteem men settle genius excuse. Deal say over you age from. Comparison new ham melancholy son.",
-        "btnText": "View Project"
-    }
+  {
+    "id": 1,
+    "thumb": "1.png",
+    "tag": "Infrastructure",
+    "title": "Déploiement Infrastructure Réseau",
+    "text": "Notre service d'infrastructure réseau fournit une solution complète pour concevoir, déployer et maintenir votre réseau d'entreprise. Nous assurons la mise en place d'une infrastructure robuste, sécurisée et évolutive, incluant la configuration des serveurs, la gestion de la sécurité, et l'optimisation des performances pour garantir une continuité opérationnelle maximale.",
+    "btnText": "Voir le Projet"
+  },
+  {
+    "id": 2,
+    "thumb": "2.png",
+    "tag": "Cloud & Data",
+    "title": "Solutions Cloud & Sauvegarde",
+    "text": "Mise en place de solutions cloud et de systèmes de sauvegarde avancés pour votre entreprise. Notre approche combine des services cloud performants et des solutions de backup locales, assurant la sécurité de vos données critiques. Nous intégrons des solutions comme My Cloud Home et Synology NAS pour une protection optimale de vos informations.",
+    "btnText": "Voir le Projet"
+  },
+  {
+    "id": 3,
+    "thumb": "3.png",
+    "tag": "Innovation",
+    "title": "Systèmes Smart & Automatisation",
+    "text": "Implémentation de solutions intelligentes et systèmes automatisés pour moderniser votre environnement professionnel. Notre expertise couvre l'installation de systèmes domotiques, la gestion intelligente de l'énergie, et l'intégration de technologies IoT pour créer un espace de travail connecté et efficient.",
+    "btnText": "Voir le Projet"
+  }
 ]
