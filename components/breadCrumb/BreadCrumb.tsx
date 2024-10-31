@@ -14,7 +14,11 @@ const BreadCrumb = ({
     <>
       <div
         className="breadcrumb-area bg-cover shadow dark text-center text-light"
-        style={{ backgroundImage: "url(/assets/img/banner/10.jpg)" }}
+        style={{
+          backgroundImage: "url(/assets/img/banner/10.png)",
+          backgroundSize: "cover",
+          backgroundPosition: "top",
+        }}
       >
         <div className="breadcrum-shape">
           <Image src={breadCrumbThumb} alt="Image Not Found" />

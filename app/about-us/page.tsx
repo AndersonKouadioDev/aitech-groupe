@@ -13,7 +13,7 @@ export const metadata = {
 const AboutUsPage = () => {
     return (
         <>
-            <LayoutStyle7 breadCrumb="About-us" title="About Us">
+            <LayoutStyle7 breadCrumb="A Propos de nous" title="Qui sommes-nous ?">
                 <AboutStyle1 />
                 <ProcessStyle1 sectionClass="bg-gray" />
                 <PartnerStyle1 sectionClass="default-padding" />

@@ -50,7 +50,7 @@ const MainHeaderStyle7 = () => {
               <div className="attr-nav">
                 <ul>
                   <li className="button">
-                    <Link href="/contact-us">Get consultant</Link>
+                    <Link href="/contact-us">Contactez-nous</Link>
                   </li>
                 </ul>
               </div>

@@ -93,17 +93,13 @@ const FooterStyle1 = ({
                   <h4 className="widget-title">Nos Services</h4>
                   <ul>
                     <li>
-                      <Link href="/services">
-                        Réseau Informatique
-                      </Link>
+                      <Link href="/services">Réseau Informatique</Link>
                     </li>
                     <li>
                       <Link href="/services">Solutions Télécom</Link>
                     </li>
                     <li>
-                      <Link href="/services">
-                        Services Électriques
-                      </Link>
+                      <Link href="/services">Services Électriques</Link>
                     </li>
                     <li>
                       <Link href="/services">Smart Life</Link>
@@ -136,7 +132,10 @@ const FooterStyle1 = ({
               <div className="col-lg-6">
                 <p>
                   &copy; Copyright {new Date().getFullYear()}. Tous droits
-                  réservés
+                  réservés. Développé par{" "}
+                  <a href="https://www.lunion-lab.com" target="_blank">
+                    LUNION-LAB
+                  </a>
                 </p>
               </div>
               <div className="col-lg-6 text-end">
