@@ -4,7 +4,7 @@ import React from 'react';
 import Services2Data from '@/public/assets/jsonData/services/Services2Data.json'
 
 export const metadata = {
-    title: "Aitech-Groupe - IT Company - Services Details"
+    title: "Aitech-CI - IT Company - Services Details"
 }
 
 const ServiceDetailsPage = ({ params }) => {

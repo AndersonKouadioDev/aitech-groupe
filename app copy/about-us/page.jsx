@@ -7,7 +7,7 @@ import TestimonialStyle1 from '@/components/testimonial/TestimonialStyle1';
 import React from 'react';
 
 export const metadata = {
-    title: "Aitech-Groupe - IT Company - About Us"
+    title: "Aitech-CI - IT Company - About Us"
 }
 
 const AboutUsPage = () => {

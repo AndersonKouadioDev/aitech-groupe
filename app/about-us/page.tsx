@@ -7,7 +7,7 @@ import TeamStyle1 from '@/components/team/TeamStyle1';
 import React from 'react';
 
 export const metadata = {
-    title: "Aitech-Groupe - IT Company - About Us"
+    title: "Aitech-CI - IT Company - About Us"
 }
 
 const AboutUsPage = () => {

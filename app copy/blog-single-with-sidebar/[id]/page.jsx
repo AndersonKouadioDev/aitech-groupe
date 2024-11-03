@@ -4,7 +4,7 @@ import blogData from '@/public/assets/jsonData/blog/BlogData.json';
 import React from 'react';
 
 export const metadata = {
-    title: "Aitech-Groupe - IT Company - Blog Single With Sidebar"
+    title: "Aitech-CI - IT Company - Blog Single With Sidebar"
 }
 
 const BlogSingleWithSidebar = ({ params }) => {

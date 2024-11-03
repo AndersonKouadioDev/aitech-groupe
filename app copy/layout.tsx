@@ -24,7 +24,7 @@ const manrope = Manrope({ subsets: ["latin"] });
 const outfit = Outfit({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Aitech Groupe - Website",
+  title: "Aitech-CI - Website",
 };
 
 export default function RootLayout({

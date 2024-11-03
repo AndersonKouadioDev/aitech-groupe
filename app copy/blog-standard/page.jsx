@@ -3,7 +3,7 @@ import BlogStandardContent from '@/components/blog/BlogStandardContent';
 import React from 'react';
 
 export const metadata = {
-    title: "Aitech-Groupe - IT Company - Blog Standard"
+    title: "Aitech-CI - IT Company - Blog Standard"
 }
 
 const BlogStandardPage = () => {

@@ -13,7 +13,7 @@ import TestimonialStyle1 from '@/components/testimonial/TestimonialStyle1';
 import React from 'react';
 
 export const metadata = {
-    title: "Aitech-Groupe - IT Company React-NextJS Template"
+    title: "Aitech-CI - IT Company React-NextJS Template"
 }
 
 const Home1 = () => {

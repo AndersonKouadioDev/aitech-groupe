@@ -3,7 +3,7 @@ import ProjectStyle2 from '@/components/project/ProjectStyle2';
 import React from 'react';
 
 export const metadata = {
-    title: "Aitech-Groupe - IT Company - Project"
+    title: "Aitech-CI - IT Company - Project"
 }
 
 const ProjectPage = () => {
