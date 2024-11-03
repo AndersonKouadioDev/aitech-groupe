@@ -4,7 +4,6 @@
     "tabClass": "show active",
     "tabId": "tab1",
     "ariaLabelled": "nav-id-1",
-    "name": "Infrastructure & Sécurité",
     "tabData": [
       {
         "id": 1,
@@ -41,7 +40,6 @@
     "tabClass": "",
     "tabId": "tab2",
     "ariaLabelled": "nav-id-2",
-    "name": "Développement & Applications",
     "tabData": [
       {
         "id": 1,
@@ -78,7 +76,6 @@
     "tabClass": "",
     "tabId": "tab3",
     "ariaLabelled": "nav-id-3",
-    "name": "Solutions Smart & IoT",
     "tabData": [
       {
         "id": 1,

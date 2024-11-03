@@ -1,7 +1,7 @@
 import Link from "next/link";
 import React from "react";
 
-const SinglePrice1 = (price ) => {
+const SinglePrice1 = ({price} ) => {
   const {
     activeClass,
     title,
