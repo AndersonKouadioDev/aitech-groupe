@@ -37,7 +37,7 @@ const ServicesStyle1 = () => {
                     aria-selected="true"
                   >
                     <i className="fas fa-server"></i>
-                    Infrastructure IT
+                    Infrastructure & Sécurité
                   </button>
                   <button
                     className="nav-link"
@@ -50,7 +50,7 @@ const ServicesStyle1 = () => {
                     aria-selected="false"
                   >
                     <i className="flaticon-network"></i>
-                    Solutions Connectées
+                    Développement & Applications
                   </button>
                   <button
                     className="nav-link"
@@ -63,7 +63,7 @@ const ServicesStyle1 = () => {
                     aria-selected="false"
                   >
                     <i className="flaticon-save-money"></i>
-                    Services Professionnels
+                    Solutions Smart & IoT
                   </button>
                 </div>
               </div>

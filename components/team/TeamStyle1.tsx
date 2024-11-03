@@ -23,7 +23,7 @@ const TeamStyle1 = ({
         {teamTitle ? <TeamTitle /> : <></>}
 
         <div className="container">
-          <div className="row">
+          <div className="row justify-content-center">
             {fullTeam ? (
               <>
                 {TeamData.map((team) => (
@@ -34,7 +34,7 @@ const TeamStyle1 = ({
               </>
             ) : (
               <>
-                {TeamData.slice(0, 4).map((team) => (
+                {TeamData.slice(0, 3).map((team) => (
                   <div className="col-xl-3 col-md-6" key={team.id}>
                     <SingleTeam1 team={team} />
                   </div>

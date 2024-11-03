@@ -2,120 +2,139 @@
     {
         "id": 1,
         "activeClass": "",
-        "title": "Basic Plan",
-        "text": "Low cost & affordable services to get you started very soon.",
-        "planPrice": "Free",
-        "btnText": "Purchase Plan",
-        "btnClass":"btn-dark",
+        "title": "Pack Essentiel",
+        "text": "Solutions de base pour démarrer votre transformation numérique.",
+        "planPrice": "Sur Devis",
+        "btnText": "Nous Contacter",
+        "btnClass": "btn-dark",
         "listData": [
             {
                 "id": 1,
                 "listIcon": "fas fa-check-circle",
-                "listData": "Increase traffic 130%"
+                "listData": "Installation Réseau de Base"
             },
             {
                 "id": 2,
                 "listIcon": "fas fa-check-circle",
-                "listData": "Organic traffic 215%"
+                "listData": "Site Web Vitrine"
             },
             {
                 "id": 3,
+                "listIcon": "fas fa-check-circle",
+                "listData": "Système de Vidéosurveillance Basic"
+            },
+            {
+                "id": 4,
                 "listIcon": "fas fa-times-circle",
-                "listData": "10 Free Optimization"
+                "listData": "Support 24/7"
             }
         ]
     },
     {
         "id": 2,
         "activeClass": "",
-        "title": "Premium Plan",
-        "text": "Increased processing power with multiple sites, storage.",
-        "planCurrency": "$",
-        "planPrice": 29,
-        "planType": "/ Monthly",
-        "btnText": "Purchase Plan",
-        "btnClass":"btn-dark",
+        "title": "Pack Professionnel",
+        "text": "Solutions complètes pour les PME en croissance.",
+        "planPrice": "Sur Devis",
+        "btnText": "Nous Contacter",
+        "btnClass": "btn-dark",
         "listData": [
             {
                 "id": 1,
                 "listIcon": "fas fa-check-circle",
-                "listData": "1,300 Keywords"
+                "listData": "Infrastructure Réseau Avancée"
             },
             {
                 "id": 2,
                 "listIcon": "fas fa-check-circle",
-                "listData": "SEO Optimized"
+                "listData": "Site Web + E-commerce"
             },
             {
                 "id": 3,
                 "listIcon": "fas fa-check-circle",
-                "listData": "Live Support"
+                "listData": "Système de Sécurité Complet"
+            },
+            {
+                "id": 4,
+                "listIcon": "fas fa-check-circle",
+                "listData": "Solutions Smart Life Basic"
             }
         ]
     },
     {
         "id": 3,
         "activeClass": "active",
-        "title": "Advanced Plan",
-        "text": "Target is processing power with multiple sites, storage.",
-        "planCurrency": "$",
-        "planPrice": 58,
-        "planType": "/ Monthly",
-        "btnText": "Purchase Plan",
-        "btnClass":"btn-theme active-btn",
+        "title": "Pack Entreprise",
+        "text": "Solutions intégrées pour une digitalisation complète.",
+        "planPrice": "Sur Devis",
+        "btnText": "Nous Contacter",
+        "btnClass": "btn-theme active-btn",
         "listData": [
             {
                 "id": 1,
                 "listIcon": "fas fa-check-circle",
-                "listData": "Increase traffic 130%"
+                "listData": "Infrastructure Cloud Complete"
             },
             {
                 "id": 2,
                 "listIcon": "fas fa-check-circle",
-                "listData": "BackLink analysis"
+                "listData": "Applications Sur Mesure"
             },
             {
                 "id": 3,
                 "listIcon": "fas fa-check-circle",
-                "listData": "10 Free Optimization"
+                "listData": "Sécurité Avancée & Monitoring"
+            },
+            {
+                "id": 4,
+                "listIcon": "fas fa-check-circle",
+                "listData": "Smart Building Solutions"
+            },
+            {
+                "id": 5,
+                "listIcon": "fas fa-check-circle",
+                "listData": "Support 24/7 Premium"
             }
         ]
     },
     {
         "id": 4,
         "activeClass": "",
-        "title": "Business Plan",
-        "text": "Mentionling processing power with multiple sites, storage.",
-        "planCurrency": "$",
-        "planPrice": 89,
-        "planType": "/ Monthly",
-        "btnText": "Purchase Plan",
-        "btnClass":"btn-dark",
+        "title": "Pack Sur Mesure",
+        "text": "Solutions personnalisées pour grands comptes.",
+        "planPrice": "Sur Devis",
+        "btnText": "Nous Contacter",
+        "btnClass": "btn-dark",
         "listData": [
             {
                 "id": 1,
                 "listIcon": "fas fa-check-circle",
-                "listData": "Increase traffic 130%"
+                "listData": "Infrastructure Multi-Sites"
             },
             {
                 "id": 2,
                 "listIcon": "fas fa-check-circle",
-                "listData": "BackLink analysis"
+                "listData": "Développement Sur Mesure"
             },
             {
                 "id": 3,
                 "listIcon": "fas fa-check-circle",
-                "listData": "Organic traffic 215%"
+                "listData": "Cybersécurité Avancée"
             },
             {
                 "id": 4,
                 "listIcon": "fas fa-check-circle",
-                "listData": "10 Free Optimization"
+                "listData": "IoT & Automatisation Complète"
             },
             {
                 "id": 5,
                 "listIcon": "fas fa-check-circle",
-                "listData": "Live Support"
+                "listData": "Consulting & Formation"
+            },
+            {
+                "id": 6,
+                "listIcon": "fas fa-check-circle",
+                "listData": "Support Dédié 24/7"
             }
         ]
     }

@@ -4,34 +4,35 @@
     "tabClass": "show active",
     "tabId": "tab1",
     "ariaLabelled": "nav-id-1",
+    "name": "Infrastructure & Sécurité",
     "tabData": [
       {
         "id": 1,
         "animationDelay": 0,
-        "icon": "fas fa-network-wired",
-        "title": "Réseau Informatique",
-        "text": "Conception, déploiement et maintenance de l'infrastructure réseau qui forme le socle technologique de toute entreprise"
+        "icon": "fas fa-shield",
+        "title": "Cybersécurité",
+        "text": "Protection complète avec tests de pénétration, sécurité système et réseau, anti-malware, anti-virus et pare-feu"
       },
       {
         "id": 2,
         "animationDelay": "",
-        "icon": "fas fa-cloud",
-        "title": "Sauvegarde",
-        "text": "Solutions de sauvegarde (backup) via services cloud ou serveurs physiques, incluant My Cloud Home et Synology NAS"
+        "icon": "fas fa-network-wired",
+        "title": "Infrastructure Réseau",
+        "text": "Conception et maintenance des systèmes et infrastructures informatiques, audit et sécurité"
       },
       {
         "id": 3,
         "animationDelay": "",
-        "icon": "fas fa-shield",
-        "title": "Cybersécurité",
-        "text": "Protection des données et des systèmes contre les menaces informatiques avec des solutions avancées"
+        "icon": "fas fa-video",
+        "title": "Vidéosurveillance",
+        "text": "Solutions de vidéosurveillance et télésurveillance professionnelles pour la sécurité de vos locaux"
       },
       {
         "id": 4,
         "animationDelay": "",
-        "icon": "flaticon-data",
-        "title": "Gestion des Données",
-        "text": "Solutions complètes de stockage et de gestion des données d'entreprise"
+        "icon": "fas fa-cloud",
+        "title": "Sauvegarde & Maintenance",
+        "text": "Solutions complètes de sauvegarde, stockage de données et maintenance préventive"
       }
     ]
   },
@@ -40,34 +41,35 @@
     "tabClass": "",
     "tabId": "tab2",
     "ariaLabelled": "nav-id-2",
+    "name": "Développement & Applications",
     "tabData": [
       {
         "id": 1,
         "animationDelay": 0,
-        "icon": "fas fa-phone",
-        "title": "Réseaux Télécom",
-        "text": "Solutions de télécommunication innovantes et infrastructures de communication fiables"
+        "icon": "fas fa-globe",
+        "title": "Création Web",
+        "text": "Développement de sites web dynamiques et boutiques en ligne personnalisées"
       },
       {
         "id": 2,
         "animationDelay": "",
-        "icon": "fas fa-video",
-        "title": "Smart Life",
-        "text": "Solutions domotiques avancées pour le contrôle et la sécurité de la maison intelligente"
+        "icon": "fas fa-mobile-alt",
+        "title": "Applications Mobiles",
+        "text": "Développement d'applications mobiles natives et solutions logicielles sur mesure"
       },
       {
         "id": 3,
         "animationDelay": "",
-        "icon": "fas fa-microchip",
-        "title": "Automatisation",
-        "text": "Systèmes d'automatisation intelligents pour l'éclairage, la sécurité et le chauffage"
+        "icon": "fas fa-database",
+        "title": "Gestion d'Entreprise",
+        "text": "Logiciels de gestion RH, stocks et bases de données adaptés à vos besoins"
       },
       {
         "id": 4,
         "animationDelay": "",
-        "icon": "fas fa-wifi",
-        "title": "IoT Solutions",
-        "text": "Integration d'appareils connectés et de solutions IoT pour maisons et entreprises"
+        "icon": "fas fa-code",
+        "title": "Solutions Personnalisées",
+        "text": "Développement d'applications spécifiques répondant à vos besoins métier"
       }
     ]
   },
@@ -76,34 +78,35 @@
     "tabClass": "",
     "tabId": "tab3",
     "ariaLabelled": "nav-id-3",
+    "name": "Solutions Smart & IoT",
     "tabData": [
       {
         "id": 1,
         "animationDelay": 0,
-        "icon": "fas fa-bolt",
-        "title": "Électricité",
-        "text": "Infrastructure électrique fiable et solutions énergétiques innovantes sur mesure"
+        "icon": "fas fa-home",
+        "title": "Smart Life",
+        "text": "Solutions domotiques intelligentes pour le contrôle d'accès, éclairage et thermostats"
       },
       {
         "id": 2,
         "animationDelay": "",
-        "icon": "flaticon-consulting",
-        "title": "Consulting",
-        "text": "Solutions de consulting pour optimiser et sécuriser les opérations de votre entreprise"
+        "icon": "fas fa-wifi",
+        "title": "Contrôle & Automatisation",
+        "text": "Systèmes de contrôle de présence et solutions d'automatisation pour plus de productivité"
       },
       {
         "id": 3,
         "animationDelay": "",
-        "icon": "fas fa-solar-panel",
-        "title": "Énergies Renouvelables",
-        "text": "Solutions d'énergie solaire et éolienne pour une entreprise plus durable"
+        "icon": "fas fa-cogs",
+        "title": "Intégration IoT",
+        "text": "Déploiement et intégration de solutions connectées pour entreprises et particuliers"
       },
       {
         "id": 4,
         "animationDelay": "",
-        "icon": "fas fa-chart-line",
-        "title": "Analyse & Optimisation",
-        "text": "Gestion des processus et analyse des données pour améliorer l'efficacité"
+        "icon": "fas fa-tools",
+        "title": "Maintenance & Support",
+        "text": "Services de maintenance préventive et support technique pour vos équipements connectés"
       }
     ]
   }

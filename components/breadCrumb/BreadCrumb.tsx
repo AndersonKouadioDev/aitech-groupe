@@ -30,7 +30,7 @@ const BreadCrumb = ({
               <ul className="breadcrumb">
                 <li>
                   <Link href="/">
-                    <i className="fas fa-home"></i> Home
+                    <i className="fas fa-home"></i> Accueil
                   </Link>
                 </li>
                 <li className="ms-1">

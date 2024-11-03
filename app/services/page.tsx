@@ -14,7 +14,7 @@ export const metadata = {
 const ServicesPage = () => {
     return (
         <>
-            <LayoutStyle7 breadCrumb="services" title="Our Services">
+            <LayoutStyle7 breadCrumb="services" title="Nos Services">
                 <ServicesStyle1 />
                 <ProcessStyle1 />
                 <PartnerStyle1 sectionClass="default-padding bg-gray" />
