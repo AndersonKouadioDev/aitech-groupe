@@ -20,7 +20,7 @@ const ServicesPage = () => {
                 <PartnerStyle1 sectionClass="default-padding bg-gray" />
                 <TeamStyle1 teamTitle={true} />
                 <RequestCallStyle1 />
-                <PriceStyle1 priceTitle={true} sectionClass="primary" />
+                {/* <PriceStyle1 priceTitle={true} sectionClass="primary" /> */}
             </LayoutStyle7>
         </>
     );
