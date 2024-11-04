@@ -40,7 +40,7 @@ export async function ContactUs({
     }
 
     return { success: true, data: { contactData } };
-  } catch () {
+  } catch {
     return {
       success: false,
       error: "Une erreur s'est produite lors de l'envoi des e-mails",
