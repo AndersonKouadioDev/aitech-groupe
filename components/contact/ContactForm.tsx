@@ -14,7 +14,7 @@ interface FormFields {
 }
 
 // Liste des services disponibles
-const AVAILABLE_SERVICES = [
+const AVAILABLE_SERVICES: { value: string; label: string }[] = [
   { value: "web-design", label: "Web Design" },
   { value: "web-development", label: "Web Development" },
   { value: "seo", label: "SEO" },
