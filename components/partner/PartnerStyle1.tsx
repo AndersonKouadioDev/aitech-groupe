@@ -1,10 +1,12 @@
 import React from "react";
-import logo1 from "@/public/assets/img/logo/1.png";
-import logo2 from "@/public/assets/img/logo/2.png";
-import logo4 from "@/public/assets/img/logo/4.png";
-import logo5 from "@/public/assets/img/logo/5.png";
-import logo6 from "@/public/assets/img/logo/6.png";
-import logo7 from "@/public/assets/img/logo/7.png";
+import logo1 from "@/public/assets/img/logo/dipndip.png";
+import logo2 from "@/public/assets/img/logo/copaci.png";
+import logo4 from "@/public/assets/img/logo/recover.jpeg";
+import logo5 from "@/public/assets/img/logo/tropic105.jpeg";
+import logo6 from "@/public/assets/img/logo/neskao.webp";
+import logo7 from "@/public/assets/img/logo/puratox.png";
+import logo8 from "@/public/assets/img/logo/uniserv.png";
+import logo9 from "@/public/assets/img/logo/open_si.png";
 import Image from "next/image";
 
 const PartnerStyle1 = ({ sectionClass }: { sectionClass?: string }) => {
@@ -51,6 +53,12 @@ const PartnerStyle1 = ({ sectionClass }: { sectionClass?: string }) => {
                   </li>
                   <li>
                     <Image src={logo6} alt="Image Not FOund" />
+                  </li>
+                  <li>
+                    <Image src={logo8} alt="Image Not FOund" />
+                  </li>
+                  <li>
+                    <Image src={logo9} alt="Image Not FOund" />
                   </li>
                 </ul>
               </div>
