@@ -39,7 +39,7 @@ export const ContactUsEmail = ({
         <Container style={container}>
           <Img
             src={`${baseUrl}/assets/img/logo.png`}
-            width="150"
+            width="220"
             height="50"
             alt="Logo"
             style={logo}
