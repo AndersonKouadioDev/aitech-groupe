@@ -158,9 +158,9 @@ const MainMenu = ({
             </li>
           </ul>
         </li> */}
-        {/* <li>
+        <li>
           <Link href="/contact-us">contact</Link>
-        </li> */}
+        </li>
       </ul>
     </>
   );

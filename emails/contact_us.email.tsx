@@ -39,7 +39,7 @@ export const ContactUsEmail = ({
         <Container style={container}>
           <Img
             src={`${baseUrl}/assets/img/logo.png`}
-            height="50"
+            width="200"
             alt="Logo"
             style={logo}
           />
@@ -56,7 +56,7 @@ export const ContactUsEmail = ({
             <Text style={infoLabel}>Téléphone</Text>
             <Text style={infoValue}>{phone}</Text>
 
-            <Text style={infoLabel}>Services d'intérêt</Text>
+            <Text style={infoLabel}>Services d&apos;intérêt</Text>
             <ul style={servicesList}>
               {services.map((service, index) => (
                 <li key={index} style={infoValue}>
@@ -73,7 +73,7 @@ export const ContactUsEmail = ({
             <Text style={{ ...paragraph, textAlign: "center", color: "#666" }}>
               AIETCH-CI
               <br />
-              Abidjan - Cocody Mermoz en Face de FIN'L
+              Abidjan - Cocody Mermoz en Face de FIN&apos;L
               <br />
               <Link
                 href="mailto:info@aitechgroupe.com"
