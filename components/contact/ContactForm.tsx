@@ -15,9 +15,15 @@ interface FormFields {
 
 // Liste des services disponibles
 const AVAILABLE_SERVICES: { value: string; label: string }[] = [
-  { value: "web-design", label: "Web Design" },
-  { value: "web-development", label: "Web Development" },
-  { value: "seo", label: "SEO" },
+  { value: "video-surveillance", label: "Video Surveillance" },
+  { value: "maintenance-informatique", label: "Maintenance Informatique" },
+  { value: "reseau-informatique", label: "Réseau Informatique" },
+  { value: "reseau-telecom", label: "Réseau Télécom" },
+  { value: "appli-mobile", label: "Appli Mobile" },
+  { value: "appli-web", label: "Appli Web" },
+  { value: "electricite", label: "Electricité" },
+  { value: "formation", label: "Formation" },
+  { value: "autre", label: "Autre" },
 ] as const;
 
 function SubmitButton() {
