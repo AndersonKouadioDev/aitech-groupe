@@ -1,20 +1,28 @@
-import Link from 'next/link';
-import React from 'react';
+import Link from "next/link";
+import React from "react";
 
 const SocialShare = () => {
-    return (
-        <>
-            <li>
-                <Link className="facebook" href="https://www.facebook.com/" target="_blank">
-                    <i className="fab fa-facebook-f"></i>
-                </Link>
-            </li>
-            <li>
-                <Link className="instagram" href="https://www.instagram.com/p/CcFuy8RqByz/?igshid=YmMyMTA2M2Y=" target="_blank">
-                    <i className="fab fa-instagram"></i>
-                </Link>
-            </li>
-            {/* <li>
+  return (
+    <>
+      <li>
+        <Link
+          className="facebook"
+          href="https://www.facebook.com/GroupAITECH/"
+          target="_blank"
+        >
+          <i className="fab fa-facebook-f"></i>
+        </Link>
+      </li>
+      <li>
+        <Link
+          className="instagram"
+          href="https://www.instagram.com/p/CcFuy8RqByz/?igshid=YmMyMTA2M2Y="
+          target="_blank"
+        >
+          <i className="fab fa-instagram"></i>
+        </Link>
+      </li>
+      {/* <li>
                 <Link className="https://pinterest.com/" href="https://www.pinterest.com/" target="_blank">
                     <i className="fab fa-pinterest-p"></i>
                 </Link>
@@ -24,8 +32,8 @@ const SocialShare = () => {
                     <i className="fab fa-linkedin-in"></i>
                 </Link>
             </li> */}
-        </>
-    );
+    </>
+  );
 };
 
 export default SocialShare;

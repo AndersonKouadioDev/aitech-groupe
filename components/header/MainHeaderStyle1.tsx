@@ -25,7 +25,7 @@ const MainHeaderStyle1 = () => {
           <div className="container">
             <div className="row align-center">
               <div className="col-xl-2 col-lg-3 col-md-2 col-sm-1 col-1">
-                <HeaderLogo openMenu={openMenu} />
+                <HeaderLogo isMenuSticky={isMenuSticky} openMenu={openMenu} />
               </div>
               <div className="col-xl-6 offset-xl-1 col-lg-6 col-md-4 col-sm-4 col-4">
                 <div
