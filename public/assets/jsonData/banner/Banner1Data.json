@@ -1,63 +1,62 @@
 [
   {
     "id": 1,
-    "bgThumb": "banner_3.png",
-    "title": "Consulting",
-    "title1": "Stratégies avancées",
-    "title2": "Optimisation entreprise",
+    "bgThumb": "banner_12.png",
+    "title": "Prestations",
+    "title1": "Création des adresses",
+    "title2": "email personnalisées",
     "btnText": "Nos Services",
-   "shapeThumb": "40.png",
+    "shapeThumb": "40.png",
     "videoId": "owhuBrGIOsEdsk"
   },
   {
     "id": 2,
-    "bgThumb": "banner_5.png",
-    "title": "Réseau Informatique",
-    "title1": "Infrastructure réseau",
-    "title2": "Socle technologique",
+    "bgThumb": "banner_13.png",
+    "title": "Smart Life",
+    "title1": "Video Surveillance",
+    "title2": "Maison connectée",
     "btnText": "Nos Services",
     "shapeThumb": "40.png",
     "videoId": "owhuBrGIOsEdsk"
   },
   {
     "id": 3,
-    "bgThumb": "banner_7.png",
-    "title": "Reseaux Telecom",
-    "title1": "Solutions de",
-    "title2": "Télécommunication",
+    "bgThumb": "banner_3.png",
+    "title": "Consulting",
+    "title1": "Stratégies avancées",
+    "title2": "Optimisation entreprise",
     "btnText": "Nos Services",
     "shapeThumb": "40.png",
     "videoId": "owhuBrGIOsEdsk"
   },
   {
     "id": 4,
+    "bgThumb": "banner_5.png",
+    "title": "Sauvegarde",
+    "title1": "Solutions Cloud",
+    "title2": "Sécurité des données",
+    "btnText": "Nos Services",
+    "shapeThumb": "40.png",
+    "videoId": "owhuBrGIOsEdsk"
+  },
+  {
+    "id": 5,
     "bgThumb": "banner_10.png",
     "title": "Électricité",
     "title1": "Solutions énergétiques",
     "title2": "Infrastructures fiables",
     "btnText": "Nos Services",
-   "shapeThumb": "40.png",
+    "shapeThumb": "40.png",
     "videoId": "owhuBrGIOsEdsk"
   },
   {
-    "id": 5,
+    "id": 6,
     "bgThumb": "banner_4.png",
     "title": "Sauvegarde",
     "title1": "Solutions Cloud",
     "title2": "Sécurité des données",
     "btnText": "Nos Services",
-   "shapeThumb": "40.png",
-    "videoId": "owhuBrGIOsEdsk"
-  },
-  {
-    "id": 6,
-    "bgThumb": "banner_9.png",
-    "title": "Smart Life",
-    "title1": "Domotique avancée",
-    "title2": "Maison connectée",
-    "btnText": "Nos Services",
-   "shapeThumb": "40.png",
+    "shapeThumb": "40.png",
     "videoId": "owhuBrGIOsEdsk"
   }
- 
 ]

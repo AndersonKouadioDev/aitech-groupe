@@ -16,7 +16,7 @@ const MainMenu = ({
         data-out="fadeOutUp"
       >
         <li>
-          <Link href="/">Acueil</Link>
+          <Link href="/">Accueil</Link>
         </li>
         <li>
           <Link href="/about-us">A Propos</Link>
