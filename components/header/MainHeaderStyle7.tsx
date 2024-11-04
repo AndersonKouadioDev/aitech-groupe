@@ -23,7 +23,7 @@ const MainHeaderStyle7 = () => {
           } ${isOpen ? "navbar-responsive" : ""}`}
         >
           <div className="container d-flex justify-content-between align-items-center">
-            <HeaderLogo openMenu={openMenu} />
+            <HeaderLogo isMenuSticky={isMenuSticky} openMenu={openMenu} />
             <div
               className={`collapse navbar-collapse collapse-mobile ${
                 isOpen ? "show" : ""

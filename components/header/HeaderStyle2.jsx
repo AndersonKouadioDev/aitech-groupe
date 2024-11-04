@@ -19,7 +19,7 @@ const HeaderStyle2 = () => {
             <header>
                 <nav className={`navbar mobile-sidenav navbar-sticky navbar-default validnavs navbar-fixed dark on menu-center no-full ${isMenuSticky ? 'sticked' : 'no-background'} ${isOpen ? "navbar-responsive" : ""}`}>
                     <div className="container d-flex justify-content-between align-items-center">
-                        <HeaderLogo openMenu={openMenu} />
+                        <HeaderLogo isMenuSticky={isMenuSticky} openMenu={openMenu} />
                         <div className={`collapse navbar-collapse collapse-mobile ${isOpen ? "show" : ""}`} id="navbar-menu">
                             <div className="collapse-header">
                                 <Image src={logo} alt="Logo" />
